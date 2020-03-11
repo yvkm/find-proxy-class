@@ -5,9 +5,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
-    <artifactId>ASM-Instrumentation</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>org.github.yvkm.javaagent</groupId>
+    <artifactId>find-proxy-class</artifactId>
+    <version>1.0.0</version>
     <name>ASM-Instrumentation</name>
 
     <properties>
